@@ -34,9 +34,9 @@ Parmentier, T. (2021), Background substrate and nest semiochemicals mediate ant 
 
 DATA & FILE OVERVIEW
 
-The data is stored in one .txt file
+The data is stored in one .txt file, this is also available as supplementay material of the manuscript
 
-no-choice experiment and behav.txt
+ESM 2 - dataset.txt
 
 	soil: three types (categorical data)
 	id: beetle id (categorical data)
